@@ -4,6 +4,7 @@ using System.Net.Mail;
 
 namespace EmailSenderProgram
 {
+    //Danish Changings in already existing email program
     internal class EmailSenderProgram
     {
         private static void Main(string[] args)
